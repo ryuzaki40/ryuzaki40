@@ -1,8 +1,8 @@
 <!-- 🧑‍💻 Intro Section -->
-<table width="100%" style="border-spacing: 0;">
-  <tr>
+<table width="100%" style="border-spacing: 0; border-collapse: collapse;">
+  <tr style="height: 220px;">
     <td width="65%" style="padding: 10px;">
-      <div style="display: flex; align-items: center; height: 220px;">
+      <div style="display: flex; align-items: center; height: 100%;">
         <div>
           <div style="font-size: 24px;"><b>👋 Hi, I'm ryuzaki40</b></div><br>
           Welcome to my GitHub.<br><br>
@@ -19,16 +19,16 @@
   </tr>
 </table>
 
----
+
 
 <!-- 🔍 About Section -->
-<table width="100%" style="border-spacing: 0;">
-  <tr>
+<table width="100%" style="border-spacing: 0; border-collapse: collapse;">
+  <tr style="height: 220px;">
     <td width="35%" align="center" valign="middle">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ExeHd3eXRvbTZ6MXVtd3BybWJ4OW92dHl0ZHU4MHZ3eGptc2syayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4GnKL68ol0ty/giphy.gif" width="220px" alt="Glitchy face reveal" />
     </td>
     <td width="65%" style="padding: 10px;">
-      <div style="display: flex; align-items: center; height: 220px;">
+      <div style="display: flex; align-items: center; height: 100%;">
         <div>
           <div style="font-size: 20px;"><b>🔍 About This Profile</b></div><br>
           - 🥱 I am Jack’s complete lack of surprise<br>
@@ -40,13 +40,13 @@
   </tr>
 </table>
 
----
+
 
 <!-- ⚙️ Interests Section -->
-<table width="100%" style="border-spacing: 0;">
-  <tr>
+<table width="100%" style="border-spacing: 0; border-collapse: collapse;">
+  <tr style="height: 220px;">
     <td width="65%" style="padding: 10px;">
-      <div style="display: flex; align-items: center; height: 220px;">
+      <div style="display: flex; align-items: center; height: 100%;">
         <div>
           <div style="font-size: 20px;"><b>⚙️ Interests</b></div><br>
           - 🖥️ <b>Backend development</b> and <b>system design</b><br>
@@ -61,16 +61,16 @@
   </tr>
 </table>
 
----
+
 
 <!-- 🎭 Outro Section -->
-<table width="100%" style="border-spacing: 0;">
-  <tr>
+<table width="100%" style="border-spacing: 0; border-collapse: collapse;">
+  <tr style="height: 220px;">
     <td width="35%" align="center" valign="middle">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q0ZXJocmp5MTg2ejI0ZHF0dGp2ajVxYzdhd3J2OGxqYjZpNmRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FKOpV6xnFXg2I/giphy.gif" width="220px" alt="Matrix rain vibe" />
     </td>
     <td width="65%" style="padding: 10px;">
-      <div style="display: flex; align-items: center; height: 220px;">
+      <div style="display: flex; align-items: center; height: 100%;">
         <div>
           <i>"You met me at a very strange time in my life."</i><br><br>
           This profile will evolve as I do.<br>
