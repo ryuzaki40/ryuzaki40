@@ -1,62 +1,51 @@
-<!-- 🧑‍💻 ryuzaki40's Profile (clean, centered & balanced) -->
+<!-- 👋 Intro -->
+<h2 align="center">👋 Hi, I'm ryuzaki40</h2>
+<p align="center">
+  Welcome to my GitHub.<br>
+  I focus on <b>building</b>, <b>learning</b>, and <b>refining</b> through hands-on work.<br>
+  I like systems that make sense, and I often take things apart to understand how they work.<br>
+  Sometimes that’s code. Sometimes that’s ideas.
+</p>
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
-  <!-- Intro -->
-  <tr>
-    <td style="width: 50%; padding: 20px; vertical-align: middle; text-align: center;">
-      <h2>👋 Hi, I'm ryuzaki40</h2>
-      <p>
-        Welcome to my GitHub.<br><br>
-        I focus on <b>building</b>, <b>learning</b>, and <b>refining</b> through hands-on work.<br>
-        I like systems that make sense, and I often take things apart to understand how they work.<br>
-        Sometimes that’s code. <br>
-        Sometimes that’s ideas.
-      </p>
-    </td>
-    <td style="width: 50%; text-align: center; padding: 20px;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU5a3p2cGlnd20ycnd1bXp5eGdjNjlmcjFpeWVkN2ZsdXp4MjU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" width="220px" alt="Welcome Hacker GIF"/>
-    </td>
-  </tr>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU5a3p2cGlnd20ycnd1bXp5eGdjNjlmcjFpeWVkN2ZsdXp4MjU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" width="300px" />
+</p>
 
-  <!-- About -->
-  <tr>
-    <td style="width: 50%; text-align: center; padding: 20px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ExeHd3eXRvbTZ6MXVtd3BybWJ4OW92dHl0ZHU4MHZ3eGptc2syayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4GnKL68ol0ty/giphy.gif" width="220px" alt="Glitchy face reveal"/>
-    </td>
-    <td style="width: 50%; padding: 20px; vertical-align: middle;">
-      <h3>🔍 About This Profile</h3>
-      <ul>
-        <li>🥱 I am Jack’s complete lack of surprise</li>
-        <li>🚧 Work in progress</li>
-        <li>⚡ Influenced by anything exciting</li>
-      </ul>
-    </td>
-  </tr>
+---
 
-  <!-- Interests -->
-  <tr>
-    <td style="width: 50%; padding: 20px; vertical-align: middle;">
-      <h3>⚙️ Interests</h3>
-      <ul>
-        <li>🖥️ <b>Backend development</b> and <b>system design</b></li>
-        <li>💾 <b>Low-level programming</b> and how hardware ticks</li>
-        <li>🔐 <b>Security</b>, <b>logic</b>, and <b>how things fail</b></li>
-      </ul>
-    </td>
-    <td style="width: 50%; text-align: center; padding: 20px;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdoeTk1OWh4Z2p2cmFvZ3VkbzVra2lvaTg5bDVtMm12aGFreGtkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADyQEh474eu0o/giphy.gif" width="220px" alt="Tech curiosity GIF"/>
-    </td>
-  </tr>
+<!-- 🔍 About Section -->
+<h3 align="center">🔍 About This Profile</h3>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ExeHd3eXRvbTZ6MXVtd3BybWJ4OW92dHl0ZHU4MHZ3eGptc2syayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4GnKL68ol0ty/giphy.gif" width="200px" />
+</p>
+<p align="center">
+  🥱 I am Jack’s complete lack of surprise <br>
+  🚧 Work in progress <br>
+  ⚡ Influenced by anything exciting
+</p>
 
-  <!-- Outro -->
-  <tr>
-    <td style="width: 50%; text-align: center; padding: 20px;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q0ZXJocmp5MTg2ejI0ZHF0dGp2ajVxYzdhd3J2OGxqYjZpNmRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FKOpV6xnFXg2I/giphy.gif" width="220px" alt="Matrix rain vibe"/>
-    </td>
-    <td style="width: 50%; padding: 20px; vertical-align: middle;">
-      <i>"You met me at a very strange time in my life."</i><br><br>
-      This profile will evolve as I do.<br>
-      Thanks for visiting. 🪄
-    </td>
-  </tr>
-</table>
+---
+
+<!-- ⚙️ Interests -->
+<h3 align="center">⚙️ Interests</h3>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdoeTk1OWh4Z2p2cmFvZ3VkbzVra2lvaTg5bDVtMm12aGFreGtkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADyQEh474eu0o/giphy.gif" width="200px" />
+</p>
+<p align="center">
+  🖥️ <b>Backend development</b> and <b>system design</b><br>
+  💾 <b>Low-level programming</b> and how hardware ticks<br>
+  🔐 <b>Security</b>, <b>logic</b>, and <b>how things fail</b>
+</p>
+
+---
+
+<!-- 🧠 Outro -->
+<h4 align="center">🧠 "You met me at a very strange time in my life."</h4>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q0ZXJocmp5MTg2ejI0ZHF0dGp2ajVxYzdhd3J2OGxqYjZpNmRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FKOpV6xnFXg2I/giphy.gif" width="200px" />
+</p>
+
+<p align="center">
+  This profile will evolve as I do. Thanks for visiting 🪄
+</p>
