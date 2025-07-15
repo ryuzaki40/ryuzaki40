@@ -48,7 +48,18 @@
     </td>
   </tr>
 
-  <!-- Tech Stack -->
+  <!-- Outro -->
+  <tr>
+    <td style="width: 50%; text-align: center; padding: 20px;">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q0ZXJocmp5MTg2ejI0ZHF0dGp2ajVxYzdhd3J2OGxqYjZpNmRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FKOpV6xnFXg2I/giphy.gif" width="220px" alt="Matrix rain vibe"/>
+    </td>
+    <td style="width: 50%; padding: 20px; vertical-align: middle;">
+      <i>"You met me at a very strange time in my life."</i><br><br>
+      This profile will evolve as I do.<br>
+      Thanks for visiting. 🪄
+    </td>
+  </tr>
+<!-- Tech Stack -->
   <tr>
     <td colspan="2" style="padding: 20px; text-align: center;">
       <h3>🛠️ Tools, Languages & Madness</h3>
@@ -65,28 +76,12 @@
       </p>
     </td>
   </tr>
-
-  <!-- GitHub Stats -->
+<!-- Languages Used -->
 <tr>
   <td colspan="2" style="padding: 20px; text-align: center;">
-    <h3>📊 GitHub Stats (because why not)</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=ryuzaki40&show_icons=true&theme=tokyonight" width="45%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzaki40&layout=compact&theme=tokyonight" width="45%"/>
-    <br><br>
-    <img src="https://streak-stats.demolab.com?user=ryuzaki40&theme=tokyonight&hide_border=true" width="92%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzaki40&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
   </td>
 </tr>
 
 
-  <!-- Outro -->
-  <tr>
-    <td style="width: 50%; text-align: center; padding: 20px;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q0ZXJocmp5MTg2ejI0ZHF0dGp2ajVxYzdhd3J2OGxqYjZpNmRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FKOpV6xnFXg2I/giphy.gif" width="220px" alt="Matrix rain vibe"/>
-    </td>
-    <td style="width: 50%; padding: 20px; vertical-align: middle;">
-      <i>"You met me at a very strange time in my life."</i><br><br>
-      This profile will evolve as I do.<br>
-      Thanks for visiting. 🪄
-    </td>
-  </tr>
 </table>
