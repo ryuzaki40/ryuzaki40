@@ -48,6 +48,36 @@
     </td>
   </tr>
 
+  <!-- Tech Stack -->
+  <tr>
+    <td colspan="2" style="padding: 20px; text-align: center;">
+      <h3>🛠️ Tools, Languages & Madness</h3>
+      <p>
+        <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GDB-FF6C37?style=flat&logo=gnu&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+
+  <!-- GitHub Stats -->
+<tr>
+  <td colspan="2" style="padding: 20px; text-align: center;">
+    <h3>📊 GitHub Stats (because why not)</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=ryuzaki40&show_icons=true&theme=tokyonight" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzaki40&layout=compact&theme=tokyonight" width="45%"/>
+    <br><br>
+    <img src="https://streak-stats.demolab.com?user=ryuzaki40&theme=tokyonight&hide_border=true" width="92%"/>
+  </td>
+</tr>
+
+
   <!-- Outro -->
   <tr>
     <td style="width: 50%; text-align: center; padding: 20px;">
